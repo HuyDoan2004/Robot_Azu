@@ -180,9 +180,9 @@ Node này **không tự tìm checkerboard**, mà **chỉ nhận 2 topic PointSta
 
 Mỗi lần nhấn `Enter` trong terminal của node này, nó sẽ:
 
-1. Lấy **giá trị mới nhất** của `cam_topic` → `p_C^(i)`.
-2. Lấy **giá trị mới nhất** của `lidar_topic` → `p_L^(i)`.
-3. Lưu cặp `(p_L^(i), p_C^(i))` vào bộ nhớ.
+1. Lấy **giá trị mới nhất** của `cam_topic` $\rightarrow p_C^{(i)}$.
+2. Lấy **giá trị mới nhất** của `lidar_topic` $\rightarrow p_L^{(i)}$.
+3. Lưu cặp $(p_L^{(i)}, p_C^{(i)})$ vào bộ nhớ.
 
 Khi gõ `q` rồi Enter:
 
@@ -264,5 +264,6 @@ Sau khi chỉnh URDF, có thể:
 - Overlay point cloud/laser lên ảnh camera để xem độ khớp.
 
 ---
+
 
 
