@@ -22,7 +22,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='you',
-    maintainer_email='you@example.com',
+    maintainer_email='',
     description='Navigation stack for my robot',
     license='MIT',
 )
