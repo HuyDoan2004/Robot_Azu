@@ -24,7 +24,7 @@
 <exec_depend>pyrealsense2</exec_depend>
 <exec_depend>ultralytics</exec_depend>
 
-  <!-- test (giữ nguyên/tuỳ chọn) -->
+  <!-- test  -->
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
   <test_depend>ament_pep257</test_depend>
