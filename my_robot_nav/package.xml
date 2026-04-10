@@ -4,7 +4,7 @@
   <name>my_robot_nav</name>
   <version>0.0.1</version>
   <description>Navigation stack for my robot</description>
-  <maintainer email="you@example.com">you</maintainer>
+  <maintainer email="">you</maintainer>
   <license>MIT</license>
 
   <depend>rclpy</depend>
