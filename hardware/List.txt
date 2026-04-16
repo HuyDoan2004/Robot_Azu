@@ -1,0 +1,5 @@
+1. Jetson Orin Nano Super 8GB (NVIDIA Jetson Orin Nano Engineering Reference Developer Kit Super)
+2. Realsense Depth Camera D435i
+3. Rplidar 2D C1M1
+4. Respeaker 4 Mic Array
+5. USB Audio Codec for Jetson Nano (Plug and Play)
