@@ -58,8 +58,8 @@ def generate_launch_description():
             'enable_sync': 'true',
             'enable_gyro': 'true',
             'enable_accel': 'true',
-            'unite_imu_method': '2',             # ✅ thêm
-            'align_depth.enable': 'true',        # ✅ thêm
+            'unite_imu_method': '2',             
+            'align_depth.enable': 'true',        
             'rgb_camera.color_profile': '640x480x15',
             'depth_module.depth_profile': '640x480x15',
             'enable_infra1': 'false',
