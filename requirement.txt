@@ -1,0 +1,17 @@
+# Global Python dependencies for the Robot_Azu workspace.
+#
+# Notes:
+# - ROS 2 dependencies (rclpy, cv_bridge, message types, etc.) are installed via ROS packages, not pip.
+# - Some packages (torch/onnxruntime) can be platform-specific; see install_dependencies.sh for options.
+
+# OpenAI assistant dependencies
+-r src/OpenAI/requirement.txt
+
+# CV / YOLO (used by my_robot/perception)
+opencv-python
+ultralytics
+
+# Runtime backends
+torch
+onnxruntime
+
